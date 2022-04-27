@@ -1,4 +1,4 @@
-![](https://github.com/hatcheryio/.github/raw/dev/.profile/hero.png)
+![](https://github.com/hatcheryio/.github/raw/dev/profile/hero.png)
 
 # hatchery GmbH
 
