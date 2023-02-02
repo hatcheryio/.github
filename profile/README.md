@@ -1,5 +1,3 @@
-![](https://github.com/hatcheryio/.github/raw/dev/profile/hero.png)
-
 # hatchery GmbH
 
 ## We enable innovation at startup speed & scalable quality
