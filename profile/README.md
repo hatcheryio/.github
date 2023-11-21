@@ -11,7 +11,3 @@ We support established organisations in developing new ideas and business models
 - **[Instagram](https://www.instagram.com/hatchery.io/)**
 - **[Kununu](https://www.kununu.com/de/hatchery)**
 - **[Glassdoor](https://www.glassdoor.de/Überblick/Arbeit-bei-hatchery-Germany-EI_IE2474885.11,27.htm)**
-
-
-## Internal links
-[📝 Dev ToDo's](https://github.com/orgs/hatcheryio/projects/1)
